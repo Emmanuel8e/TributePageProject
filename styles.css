@@ -1,0 +1,238 @@
+body {
+    margin: 0%;
+}
+
+#title-section {
+    background-color: #f5f5f5;
+    color: #000000 ;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 155px;
+    align-content: center;
+}
+
+p {
+    font-family: 'Old Standard TT', serif;
+}
+
+.title-image {
+    float: right;
+    border-radius: 50%;
+    margin-bottom: 5rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.name {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+
+.elon-quote {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.about-elon {
+    line-height: 2rem;
+    max-width: 600px;
+}
+
+
+#biography-section {
+    padding: 100px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #333333;
+
+}
+
+#biography-section > h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+#biography-section > p {
+    font-family: 'Old Standard TT', serif;
+    line-height: 2rem;
+    max-width: 700px;
+    margin: auto;
+    word-spacing: 1px;
+    margin-bottom: 100px;
+}
+
+#achivements-section {
+    padding: 100px;
+    padding-top: 30px;
+    background-color: #f5f5f5;
+    color: black;
+
+}
+
+#achivements-section > h1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size: 2.6rem;
+    margin-top: 100px;
+    /* padding: 50px; */
+    
+}
+
+.space-img {
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin: 40px;
+    margin-left: 0px;
+    border-radius: 10%;
+    text-align: center;
+}
+
+span {
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+
+.spacex > p {
+    line-height: 30px;
+    margin-top: 120px;
+    font-size: large;
+}
+
+
+
+.tesla-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: right;
+    margin: 40px;
+    margin-right: 0%;
+    margin-top: 250px;
+    text-align: center;
+}
+
+.tesla {
+    margin-top: 330px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.boring-comapny-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: left;
+    margin: 40px;
+    margin-top: 250px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.the-boring-company {
+    margin-top: 330px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.solar-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: right;
+    margin: 40px;
+    margin-top: 250px;
+    margin-right: 0%;
+    text-align: center;
+}
+
+.solar-city {
+    margin-top: 330px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.openai-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: left;
+    margin: 40px;
+    margin-top: 250px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.openai {
+    margin-top: 330px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.zip2-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: right;
+    margin: 40px;
+    margin-top: 250px;
+    margin-right: 0%;
+    text-align: center;
+}
+
+.zip2 {
+    margin-top: 330px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.paypal-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    float: left;
+    margin: 40px;
+    margin-top: 250px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.paypal {
+    margin-top: 300px;
+    line-height: 30px;
+    font-size: large;
+}
+
+
+ .top {
+        text-decoration: none;
+        padding: 10px;
+        font-family: sans-serif;
+        color: #fff;
+        background: #000;
+        border-radius: 100px;
+        position: sticky;
+}
+
+h3 {
+    margin-top: 100px;
+}
+h4 {
+    margin-top: 100px;
+}
+
+#footer-section {
+    background-color: #fff;
+    padding: 100px;
+    padding-top: 150px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Old Standard TT', serif;
+}
